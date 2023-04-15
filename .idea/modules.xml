@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/005_Samples.iml" filepath="$PROJECT_DIR$/.idea/005_Samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/005_Start_with_hibernate.main.iml" filepath="$PROJECT_DIR$/.idea/modules/005_Start_with_hibernate.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.itvdn.jdbcandhibernate.005_Start_with_hibernate.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.itvdn.jdbcandhibernate.005_Start_with_hibernate.main.iml" />
+    </modules>
+  </component>
+</project>
